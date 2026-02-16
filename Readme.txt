@@ -1,1 +1,1 @@
-First Github Commit
+In diesem Repo werden die unterschiedlichsten RAG Ansätze Implementiert und mit einander verglichen. 
