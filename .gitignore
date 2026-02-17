@@ -1,0 +1,48 @@
+# Bytecode / Cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Venv / Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Docker
+pgdata/
+sql/*.sql
+hf_cache/
+
+# HuggingFace / Model Cache
+~/.cache/
+.cache/
+*.safetensors
+*.bin
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Checkpoints
+checkpoints/
+benchmark_results/
+
+*.xls
+*.xlsx
+*.bib
+
+
+.deepeval_telemetry.txt
+

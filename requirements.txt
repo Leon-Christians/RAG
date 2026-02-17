@@ -1,0 +1,3 @@
+datasets
+psycopg2-binary
+huggingface-hu
